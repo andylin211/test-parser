@@ -1,4 +1,4 @@
-pakcage test
+package test
 
 func Test() {
   println("test")
